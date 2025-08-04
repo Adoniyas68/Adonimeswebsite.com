@@ -1,0 +1,40 @@
+        body {
+            font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+           } 
+           header {
+            background: black;
+            color: white;
+            padding: 20px 20px;
+           }
+           section {
+            background: grey;
+            padding: 20px;
+            display: flex;
+            flex-direction: row;
+            color: black
+           }
+           footer {
+            background: black;
+            color: white;
+            padding: 10px 20px
+           }
+           div {
+            background: red;
+            margin: auto;
+            display: inline-block;
+            width: 100px
+           }
+           li {
+            display: inline-block;
+            margin-right: 20px;
+           }
+           ul {
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+           }
+           a {
+            color: peachpuff;
+           }
